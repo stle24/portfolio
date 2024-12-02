@@ -1,0 +1,11 @@
+{
+    "name": "stle24/portfolio",
+    "description": "Kursen 'design' | BTH",
+    "authors": [
+        {
+            "name": "stle24",
+            "email": "stle24@student.bth.se"
+        }
+    ],
+    "require": {}
+}
