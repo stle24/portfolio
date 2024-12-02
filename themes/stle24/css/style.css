@@ -5039,6 +5039,7 @@ input[type=text]:focus {
     background: none;
     border: none;
     cursor: pointer;
+    height: 50px;
     display: flex;
     align-items: center;
     padding: 0;

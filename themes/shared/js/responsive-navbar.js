@@ -27,8 +27,8 @@ function main()
     }
 
     // responsive menu
-    var menu = document.getElementById('nav'),
-        menuToggle = document.getElementById('nav-toggle'),
+    var menu = document.getElementById('navbar'),
+        menuToggle = document.getElementById('nav-links'),
         navIcon = document.getElementById('toggler')
         toggleMenuEvent = function (event) {
             if (event.type === 'keydown') {
